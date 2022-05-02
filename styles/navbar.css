@@ -1,0 +1,13 @@
+#navbar{
+    width: 100%;
+    display: flex;
+    gap: 15%;
+    align-items: center;
+    background-color: aqua;
+}
+
+#search_input{
+    padding: 5px;
+    width: 50%;
+    height: 25px;
+}
